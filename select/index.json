@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Go on Then, Love",
+  "base_artist": "Said The Sky和The Maine",
+  "createdAt": "2026-04-03T16:42:58.927169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go on Then, Love",
+      "artist": "Said The Sky",
+      "has_synced": false,
+      "path": "select/01_Go_on_Then,_Love_Said_The_Sky.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go on Then, Love",
+      "artist": "Said the Sky, The Maine",
+      "has_synced": true,
+      "path": "select/02_Go_on_Then,_Love_Said_the_Sky,_The_Maine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go On Then, Love",
+      "artist": "Said the Sky · The Maine",
+      "has_synced": true,
+      "path": "select/03_Go_On_Then,_Love_Said_the_Sky_·_The_Maine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go On Then, Love",
+      "artist": "Said the Sky ft. The Maine",
+      "has_synced": true,
+      "path": "select/04_Go_On_Then,_Love_Said_the_Sky_ft._The_Maine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go on Then, Love",
+      "artist": "Said The Sky",
+      "has_synced": true,
+      "path": "select/05_Go_on_Then,_Love_Said_The_Sky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go on Then, Love (feat. The Maine)",
+      "artist": "Said The Sky",
+      "has_synced": true,
+      "path": "select/06_Go_on_Then,_Love_(feat._The_Maine)_Said_The_Sky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go on Then, Love",
+      "artist": "Said The Sky & The Maine",
+      "has_synced": true,
+      "path": "select/07_Go_on_Then,_Love_Said_The_Sky_&_The_Maine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go on Then, Love",
+      "artist": "Said The Sky feat. The Maine",
+      "has_synced": true,
+      "path": "select/08_Go_on_Then,_Love_Said_The_Sky_feat._The_Maine.lrc"
+    }
+  ]
+}
